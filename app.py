@@ -2,8 +2,10 @@ import streamlit as st
 import tensorflow as tf
 from tensorflow import keras
 import streamlit as st
-from keras.preprocessing import image
-from keras.preprocessing.image import ImageDataGenerator
+from PIL import Image, ImageOps
+import numpy as np
+#from keras.preprocessing import image
+#from keras.preprocessing.image import ImageDataGenerator
 
 
 @st.cache(allow_output_mutation=True)
@@ -19,9 +21,7 @@ st.write("""
          )
 
 file = st.file_uploader("Please upload a file", type=["jpg", "png"])
-import cv2
-from PIL import Image, ImageOps
-import numpy as np
+
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 def import_and_predict(image_data, model):
