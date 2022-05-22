@@ -10,7 +10,9 @@ import numpy as np
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-  model=tf.keras.models.load_model('/content/DL-AgeGender-Prediction-Project/models/a_g_best.h5')
+  # Load in the pre-trained model
+  model_file_path = 'a_g_best.h5'
+  model=tf.keras.models.load_model(model_file_path)
   return model
 with st.spinner('Model is being loaded..'):
   model=load_model()
