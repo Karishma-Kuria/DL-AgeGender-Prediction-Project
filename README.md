@@ -34,6 +34,6 @@
 ---
 #### Presentation Link : https://www.canva.com/design/DAFBeLJ4d44/U0avf80Dlb49tv2HuELvgA/view?utm_content=DAFBeLJ4d44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ---
-#### Presentation Video Link: https://www.canva.com/design/DAFBeLJ4d44/U0avf80Dlb49tv2HuELvgA/view?utm_content=DAFBeLJ4d44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+#### Presentation Video Link: https://drive.google.com/drive/folders/1CMwyXa0yILAyttjVo1up5o4vvAJUEt2a?usp=sharing
 ---
 
