@@ -1,7 +1,7 @@
 # DL-AgeGender-Prediction-Project
 
 # Team Name - DL- Drivers
-### Team Members: Akanksha Rawat, Karishma Kuria , Nisha Mohan Devadiga
+### Team Members: Akanksha Rawat, Karishma Kuria , Nisha Mohan Devadiga (Each team member has done individual research and contributed in all the part throughout the project, provided feedback)
 
 ## Project Insight
 <ul>
