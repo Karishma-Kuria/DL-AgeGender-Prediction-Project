@@ -11,7 +11,7 @@ import numpy as np
 @st.cache(allow_output_mutation=True)
 def load_model():
   # Load in the pre-trained model
-  model_file_path = 'a_g_best.h5'
+  model_file_path = 'DL_AgeGen_best.h5'
   model=tf.keras.models.load_model(model_file_path)
   return model
 with st.spinner('Model is being loaded..'):
