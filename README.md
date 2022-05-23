@@ -37,3 +37,11 @@
 #### Presentation Video Link: https://drive.google.com/drive/folders/1CMwyXa0yILAyttjVo1up5o4vvAJUEt2a?usp=sharing
 ---
 #### Project Writeup Link: https://docs.google.com/document/d/13ODiZ-62HmKOiYLruBTZSKaD66jfPFZVVu_CvlyPmMM/edit?usp=sharing
+
+
+Referenes :
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8361072
+http://cs231n.stanford.edu/reports/2016/pdfs/003_Report.pdf
+https://www.hindawi.com/journals/mpe/2018/1712686/
+https://arxiv.org/pdf/1710.02985.pdf
+https://github.com/ShreyanshJoshi/Facial-Demographics-using-CNN
