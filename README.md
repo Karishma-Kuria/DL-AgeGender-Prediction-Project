@@ -30,7 +30,7 @@
 ----
 #### Heroku deployed Streamlit link: https://age-gender-prediction-app.herokuapp.com/
 ---
-#### MLOps Link: 
+#### MLOps Link: https://67ca-34-141-141-94.ngrok.io
 ---
 #### Presentation Link : https://www.canva.com/design/DAFBeLJ4d44/U0avf80Dlb49tv2HuELvgA/view?utm_content=DAFBeLJ4d44&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ---
