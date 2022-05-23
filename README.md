@@ -14,6 +14,10 @@
 <li>Providing accurate age and gender is not an easy task to perform, since it’s very difficult to distinguish people of the same age based on their facial features, makeup etc.</li>
 </ul>
 
+## Dataset used for training: UTKFace
+<img width="949" alt="Screen Shot 2022-05-22 at 10 01 34 PM" src="https://user-images.githubusercontent.com/77387431/169759300-0358f319-43df-47b6-8e17-d3cd02e591df.png">
+
+
 ## Neural Network Architecture
 <img width="1553" alt="neural" src="https://user-images.githubusercontent.com/89233753/169738140-73eb48d3-744c-4e3b-a145-ee43c7756d45.png">
 
