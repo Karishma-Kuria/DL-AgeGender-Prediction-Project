@@ -23,6 +23,15 @@
 ## Prediction Result
 <img width="764" alt="Screen Shot 2022-05-22 at 6 46 35 PM" src="https://user-images.githubusercontent.com/89233753/169737889-03561e3b-92c0-4880-aa97-8a2d2aa1afbe.png">
 
+## MLFLOW Model Tracking and monitoring:
+
+
+<img width="1362" alt="Screen Shot 2022-05-22 at 11 38 22 PM" src="https://user-images.githubusercontent.com/77387431/169758798-9ded605d-a3ac-4d27-ab69-4e91ef6b4737.png">
+
+<img width="1709" alt="Screen Shot 2022-05-22 at 11 39 00 PM" src="https://user-images.githubusercontent.com/77387431/169758821-5f60431b-ef5b-4c69-9925-5283085a47e3.png">
+
+
+<img width="1736" alt="Screen Shot 2022-05-22 at 11 39 16 PM" src="https://user-images.githubusercontent.com/77387431/169758837-e6b7b93a-93b6-4df9-84d0-b972500471c4.png">
 
 #### Github Link: https://github.com/Karishma-Kuria/DL-AgeGender-Prediction-Project
 ----
